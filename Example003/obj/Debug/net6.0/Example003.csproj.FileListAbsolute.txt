@@ -1,0 +1,15 @@
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\bin\Debug\net6.0\Example003.exe
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\bin\Debug\net6.0\Example003.deps.json
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\bin\Debug\net6.0\Example003.runtimeconfig.json
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\bin\Debug\net6.0\Example003.dll
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\bin\Debug\net6.0\Example003.pdb
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\Example003.csproj.AssemblyReference.cache
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\Example003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\Example003.AssemblyInfoInputs.cache
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\Example003.AssemblyInfo.cs
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\Example003.csproj.CoreCompileInputs.cache
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\Example003.dll
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\refint\Example003.dll
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\Example003.pdb
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\Example003.genruntimeconfig.cache
+C:\Users\SBB2-Ермилов Артём\YandexDisk-artyomermiloff\GeegBrains\C#\Homework\Homework008\Example003\obj\Debug\net6.0\ref\Example003.dll
